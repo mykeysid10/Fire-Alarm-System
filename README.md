@@ -6,4 +6,4 @@ Domain: IOT
       <a href="https://www.tinkercad.com/things/idn5rImjfF0" target="_blank">Fire Alarm System</a>
 </div>
 
-![Diagram](https://raw.githubusercontent.com/mykeysid10/Fire-Alarm-System-using-Tinkercad/main/Output.png)
+![Diagram](http://raw.githubusercontent.com/mykeysid10/Fire-Alarm-System-using-Tinkercad/main/Output.png)
